@@ -16,3 +16,5 @@ it must be used to extend cglib classes dependant on ASM API
 
 cglib-nodep-#.#_#.jar       binary distribution, CGLIB and renamed ASM classes, 
 not extendable 
+
+fork by cwowhappy at 2017-08-25
